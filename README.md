@@ -97,3 +97,38 @@ Step 8: Assign the ticket to a specific agent. In this case, Patrick Mahomes. Cl
 Step 9: Update the SLA Plan. Select SEV-A and create a note explaining the reason for the update.  
 </p>
 <br />
+
+<p>
+<img src="https://i.postimg.cc/XvpkwqBd/temp-Image-J3-Kj-Ja.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 10: Assign the ticket to the appropriate department, in our case "System Administrators" and leave a note to explain the reason for this update.   
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/NFJ07sH2/temp-Image3-ZCLke.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 11: Post a reply explaining the course of action used to resolve the ticket. Change ticket status to "Resolved" and click Post Reply.   
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/vBWMXW4V/temp-Image-Bsm-Dxz.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/xjxjZdXc/temp-Image-EFMEV8.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/d3wFfLCS/temp-Image-Sf52-E3.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 12: Repeat steps 6-11 to resolve the other two tickets that were created.
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/Wz8VcT6p/temp-Image8-Senoc.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 13: The ticket dashboard should be cleared of all support tickets if all of the steps were completed correctly.
+</p>
+<br />
+
