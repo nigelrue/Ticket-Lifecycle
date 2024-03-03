@@ -56,3 +56,44 @@ Step 3: Enter in an Issue Summary and a breif description of the ticket. Click C
 Step 4: Create a second ticket using user 1 again and a third ticket using user 2.
 </p>
 <br />
+
+<p>
+<img src="https://i.postimg.cc/5yfKJ1j0/temp-Image-S3laxn.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5: Navigate back to the homepage by typing "local/osTicket/scp/index.php" into the browser and login using User 1's information.
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/CLzHqzy0/temp-Imagei-A0lqe.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/MKN0bqxQ/temp-Image26kobj.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 6: Select the first ticket that we created earlier, "Entire mobile website is down". Observe how the ticket creation process is setup from the user's perspective.
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/rwhDC95Y/temp-Imagequa0-VI.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7: Update the Priority. Change from Normal to Emergency. Add notes explaining the reason for changing the priority. Click Update.
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/VvRfsYRH/temp-Imaget-HN1-Jv.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 8: Assign the ticket to a specific agent. In this case, Patrick Mahomes. Click Assign. 
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/1zwZ5mRc/temp-Image-OCi-N6-R.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 9: Update the SLA Plan. Select SEV-A and create a note explaining the reason for the update.  
+</p>
+<br />
