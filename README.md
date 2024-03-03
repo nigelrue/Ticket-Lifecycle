@@ -44,6 +44,15 @@ Step 2: Enter in the contact information using the information from User 1 that 
 <img src="https://i.postimg.cc/L6q3Gn8X/temp-Imageieyi-Hu.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Enter in an Issue Summary and a breif description of the ticket.
+Step 3: Enter in an Issue Summary and a breif description of the ticket. Click Create Ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.postimg.cc/5yj9sc1H/temp-Image6-I9-ILl.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/6qSWSH5M/temp-Imagesi-G1-KY.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4: Create a second ticket using user 1 again and a third ticket using user 2.
 </p>
 <br />
