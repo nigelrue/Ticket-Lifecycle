@@ -116,8 +116,8 @@ Step 11: Post a reply explaining the course of action used to resolve the ticket
 
 <p>
 <img src="https://i.postimg.cc/vBWMXW4V/temp-Image-Bsm-Dxz.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.postimg.cc/xjxjZdXc/temp-Image-EFMEV8.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.postimg.cc/d3wFfLCS/temp-Image-Sf52-E3.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/xjxjZdXc/temp-Image-EFMEV8.avif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 12: Repeat steps 6-11 to resolve the other two tickets that were created.
